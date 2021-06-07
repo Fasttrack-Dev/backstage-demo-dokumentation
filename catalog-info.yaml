@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "weitereDokumentation"
+  description: "Lorem ipsum"
+  annotations:
+    github.com/project-slug: Fasttrack-Dev/backstage-demo-dokumentation
+    backstage.io/techdocs-ref: url:https://github.com/Fasttrack-Dev/backstage-demo-dokumentation
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "joseidon"
