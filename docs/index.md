@@ -1,6 +1,8 @@
 ## weitereDokumentation
 
-Lorem ipsum
+Dies ist die Dokumentation für die React App.
+
+Lorem Ipsum
 
 ## Getting started
 
